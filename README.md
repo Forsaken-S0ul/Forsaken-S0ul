@@ -1,10 +1,10 @@
 # 👋 Welcome to My GitHub!
 
-✨ **"I am a Software_Developer/Game_designer**
+✨ **I am a Software_Developer/Game_designer**
 
 ## 🌟 About Me
 
-I make things that break interestingly!
+**I make things that break interestingly!**
 
 * 🛠️ **Currently Building:** an interactive project that mixes design, tech, and way too much curiosity
 * 🚀 **Learning:** how to make 3D worlds come alive
