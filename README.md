@@ -13,6 +13,7 @@
 * 🎮 **Fun Fact:** I play every game but I am good at none of them. Also I like anime....
 
 ![Role Animation](bonkbonk.gif)
+<img src="bonkbon.gif" alt="Role Animation" width="400">
 
 
 ---
