@@ -12,8 +12,7 @@
 * 😄 **Pronouns:** She/Left
 * 🎮 **Fun Fact:** I play every game but I am good at none of them. Also I like anime....
 
-![Role Animation](bonkbonk.gif)
-<img src="bonkbonk.gif" alt="Role Animation" width="400">
+<img src="bonkbonk.gif" alt="Role Animation" width="700">
 
 
 ---
