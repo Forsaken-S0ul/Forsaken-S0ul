@@ -12,7 +12,7 @@ I make things that break interestingly!
 * 😄 **Pronouns:** She/Left
 * 🎮 **Fun Fact:** I play every game but I am good at none of them. Also I like anime....
 
-![Role Animation](bonkbon.gif)
+![Role Animation](bonkbonk.gif)
 
 
 ---
